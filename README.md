@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheDeku
-- 👀 I’m interested in Mobile Development
+- 👀 I’m interested in Backend and Mobile Development
 - 📫 How to reach me c.astorgagonzalez@gmail.com
 
 <!---
